@@ -1,0 +1,9 @@
+ie\flavorfeedback\CategoryFeedbackHandler.class
+ie\flavorfeedback\ExitIntentHandler.class
+ie\flavorfeedback\AddProductHandler.class
+ie\flavorfeedback\GetProductHandler.class
+ie\flavorfeedback\handlers\SnackCategoryHandler.class
+ie\flavorfeedback\ProductFeedbackHandler.class
+ie\flavorfeedback\LaunchRequestHandler.class
+ie\flavorfeedback\handlers\BeverageCategoryHandler.class
+ie\flavorfeedback\FlavorFeedbackHandler.class
